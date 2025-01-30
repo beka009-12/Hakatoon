@@ -586,6 +586,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     gap: 15px;
+    width: 150px;
     li {
       cursor: pointer;
       transition: 1s ease;
