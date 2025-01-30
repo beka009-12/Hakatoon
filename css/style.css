@@ -97,8 +97,9 @@ button:hover {
   }
 }
 .burger_menu {
-  font-size: 38px;
+  font-size: 34px;
   display: none;
+  color: #000;
 }
 /*  */
 #home {

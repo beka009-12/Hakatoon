@@ -196,7 +196,7 @@
     }
   }
   .burger_menu {
-    display: block;
+    display: flex;
   }
   .home {
     flex-direction: column-reverse;
